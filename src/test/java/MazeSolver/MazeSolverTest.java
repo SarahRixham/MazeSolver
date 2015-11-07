@@ -1,14 +1,14 @@
-package TabulaRasa;
+package MazeSolver;
 
 import org.junit.*;
 import static org.junit.Assert.*;
 
-public class TabulaRasaTest
+public class MazeSolverTest
 {
 	@Test
 	public void method_true_returnsTrue()
 	{
-		TabulaRasa tabulaRasa = new TabulaRasa();
+		MazeSolver tabulaRasa = new MazeSolver();
 
 		boolean actual = tabulaRasa.method(true);
 

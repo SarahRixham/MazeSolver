@@ -1,6 +1,6 @@
-package TabulaRasa;
+package MazeSolver;
 
-public class TabulaRasa
+public class MazeSolver
 {
 	public boolean method(boolean input)
 	{
